@@ -45,6 +45,18 @@ Dart 3.13.3
 - Layout responsivo para Android e Web
 - Deploy da versão Web com Firebase Hosting
 
+## Testes
+
+O projeto possui testes automatizados para validar comportamentos da aplicação:
+
+- Teste unitário do estado inicial do `AuthProvider`
+- Widget test do componente `InsuranceOption`
+
+Para executar os testes:
+
+```bash
+fvm flutter test
+```
 
 ## Deploy
 
