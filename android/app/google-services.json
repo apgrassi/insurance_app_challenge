@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "483640165923",
+    "project_id": "insurance-app-challenge",
+    "storage_bucket": "insurance-app-challenge.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:483640165923:android:43d0439fca786405609396",
+        "android_client_info": {
+          "package_name": "com.example.insurance_app_challenge"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWAtGrst9O0XLl4i6SNSxRnFrB0R5wsC0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
